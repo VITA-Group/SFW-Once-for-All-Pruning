@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Code used for paper: [*Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, and No Retraining*](https://openreview.net/pdf?id=O1DEtITim__).
+Code used for paper: [ICLR 2022] [*Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, and No Retraining*](https://openreview.net/pdf?id=O1DEtITim__).
 
 Lu Miao\*, Xiaolong Luo\*, Tianlong Chen, Wuyang Chen, Dong Liu, Zhangyang Wang
 
